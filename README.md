@@ -1,6 +1,6 @@
 # FastFEC-rust
 
-A machine-translated version of [FastFEC]() using the [`c2rust`]() tool.
+A machine-translated version of [FastFEC](https://github.com/washingtonpost/FastFEC) using the [`c2rust`](https://github.com/immunant/c2rust) tool.
 
 ## Adaptation of `FastFEC` README:
 
