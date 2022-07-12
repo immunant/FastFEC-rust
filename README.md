@@ -4,8 +4,6 @@ A machine-translated version of [FastFEC]() using the [`c2rust`]() tool.
 
 ## Adaptation of `FastFEC` README:
 
-# FastFEC
-
 A Rust program to stream and parse FEC filings, writing output to CSV.
 
 ## Installation
