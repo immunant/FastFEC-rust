@@ -13,8 +13,10 @@ autobins = false
 name = "rust"
 path = "lib.rs"
 crate-type = ["staticlib", "rlib"]
+
 [[bin]]
 path = "src/main.rs"
-name = "main"
+name = "fastfec"
+
 [dependencies]
 libc= "0.2"
